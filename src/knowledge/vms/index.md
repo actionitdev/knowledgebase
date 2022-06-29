@@ -456,3 +456,10 @@ There are countless alternatives available and it's not difficult to get overpow
 Note this report offers a general overview and evaluation of available volunteering management solutions. Data and information collected may vary over time and can be subjective. Clients are advised to use the recommendations as one of the many references available. Decisions on implementation should be made after clients’ own evaluation based on specific environments and requirements.
 
 
+
+# Zoho Creator for Volunteer Management System
+
+The particular use of Zoho Creator in this project is to use the in-built Volunteer Management System App to boost the efficiency for volunteer and events management. Pre-set features provided by the platform will be demonstrated in this manual and in video tutorials, meanwhile it allows certain degree of customisation for future upgrades. Admins may operate the system for volunteer registration and event creation, where all data is stored in a set database of Zoho. 
+
+Manual for setup: https://drive.google.com/file/d/1wJtGoihuUzAjcvNk_4inj7n0HqRfL6v0/view?usp=sharing
+Video Tutorials: https://drive.google.com/drive/folders/1LG6QQLIB2x0LmFDz3WniDU5ZvzTm9s6e?usp=sharing
