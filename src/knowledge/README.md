@@ -29,3 +29,7 @@ Here you will find documentation detailing what previous Action IT teams have ac
 ## Volunteer Management System
 
 - [Selecting Volunteer Management Systems for Non-Profit Organizations (Nov 2021)](./vms/index.md)
+
+## Salamfest WordPress website
+
+- [Salamfest project overview](./salamfest/index.md)
